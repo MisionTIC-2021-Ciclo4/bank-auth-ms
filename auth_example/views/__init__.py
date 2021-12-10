@@ -1,3 +1,3 @@
 from .userCreateView  import UserCreateView, UserWelcomeView 
-from .userDetailView  import UserDetailView, UserUpdateView, UserDeleteView
+from .userView        import UserDetailView, UserUpdateView, UserDeleteView, UserOtherAccounts
 from .verifyTokenView import VerifyTokenView
